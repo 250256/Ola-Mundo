@@ -1,4 +1,6 @@
 # Ola Mundo
  Primeiro repositório do curso de Git e GitHub
+ 
+Repositorio criado durante uma aula!
 
- Repositorio criado durante uma aula!
+Linha criada aleatoriamente
